@@ -1,0 +1,7 @@
+{"isbn":"1122334455","name":"Don Quijote de la Mancha","author":"Miguel de Cervantes","category":"Clasicos","price":"25.00","quantity":"7","namesize":192,"namesizehuffman":93,"namesizearithmetic":64}
+{"isbn":"0987654321","name":"El Principito","author":"Antoine de Saint-Exupery","category":"Ficcion","price":"18.00","quantity":"5","namesize":104,"namesizehuffman":44,"namesizearithmetic":64}
+Resultados de Compresión:
+Equal: 0
+Decompress: 0
+Huffman: 1
+Arithmetic: 1

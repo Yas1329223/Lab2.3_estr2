@@ -1,0 +1,5 @@
+﻿  laboratorio 2.cpp
+C:\Users\aldan\OneDrive\Documentos\Universidad\4to Semestre\Estructura 2\lab 2\laboratorio 2\laboratorio 2.cpp(94,74): warning C4293: '<<': recuento de desplazamientos negativo o demasiado grande; comportamiento impredecible
+C:\Users\aldan\OneDrive\Documentos\Universidad\4to Semestre\Estructura 2\lab 2\laboratorio 2\laboratorio 2.cpp(175,29): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\aldan\OneDrive\Documentos\Universidad\4to Semestre\Estructura 2\lab 2\laboratorio 2\laboratorio 2.cpp(176,32): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  laboratorio 2.vcxproj -> C:\Users\aldan\OneDrive\Documentos\Universidad\4to Semestre\Estructura 2\lab 2\laboratorio 2\x64\Debug\laboratorio 2.exe

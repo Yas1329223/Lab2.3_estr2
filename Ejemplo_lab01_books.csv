@@ -1,0 +1,5 @@
+INSERT; {"isbn":"1234567890","name":"Cien Anos de Soledad","author":"Gabriel Garcia Marquez","category":"Ficcion","price":"20.00","quantity":"10"}
+INSERT; {"isbn":"0987654321","name":"El Principito","author":"Antoine de Saint-Exupery","category":"Ficcion","price":"15.00","quantity":"5"}
+PATCH; {"isbn":"0987654321","author":"Antoine de Saint-Exupery","price":"18.00"}
+DELETE; {"isbn":"1234567890"}
+INSERT; {"isbn":"1122334455","name":"Don Quijote de la Mancha","author":"Miguel de Cervantes","category":"Clasicos","price":"25.00","quantity":"7"}
